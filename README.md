@@ -5,3 +5,4 @@ The objective of this paper was to study the effectiveness of image augmentation
 The training data: https://github.com/Kiaan1204/TRAINING-DATA-1-AND-2
 
 The full paper: https://jsr.org/hs/index.php/path/article/view/1486
+Authors of all code and text has been cited in the research paper.
